@@ -1,0 +1,299 @@
+<tdg:TDG_SRT_Corpus xmlns:tdg="urn:com:thetdgroup:schema:tdg_srt:v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <tdg:CorpusMetadata>
+    <tdg:CorpusContent>
+      <tdg:Project>
+        <tdg:ProjectID/>
+        <tdg:ProjectTitle>bl011203ed43is1.txt</tdg:ProjectTitle>
+      </tdg:Project>
+      <tdg:Content>
+        <tdg:Subjects>
+          <tdg:Subject tdg:MetaDataID="http://d.opencalais.com/cat/Calais/Politics" tdg:Text="Politics"/>
+          <tdg:Subject tdg:MetaDataID="http://d.opencalais.com/cat/Calais/War_Conflict" tdg:Text="War_Conflict"/>
+        </tdg:Subjects>
+        <tdg:NamedEntities>
+          <tdg:Continent tdg:entityID="http://d.opencalais.com/genericHasher-1/09bebb87-1ef5-373d-bd01-263e77470c65" tdg:entityName="Europe" tdg:relevanceScore="0.297"/>
+          <tdg:Country tdg:entityID="http://d.opencalais.com/genericHasher-1/398f0f7f-7b2f-3363-bda4-f09b836ed062" tdg:entityName="Germany" tdg:relevanceScore="0.094"/>
+          <tdg:Country tdg:entityID="http://d.opencalais.com/genericHasher-1/7f0fc81a-494e-3124-a634-6a8a13e9dd46" tdg:entityName="Russia" tdg:relevanceScore="0.3"/>
+          <tdg:Country tdg:entityID="http://d.opencalais.com/genericHasher-1/a54ac18b-a956-3b5c-b235-0609ca899305" tdg:entityName="United States" tdg:relevanceScore="0.675"/>
+          <tdg:Country tdg:entityID="http://d.opencalais.com/genericHasher-1/453e9489-cc05-3f29-b6aa-aabd09a1805b" tdg:entityName="Israel" tdg:relevanceScore="0.64"/>
+          <tdg:Country tdg:entityID="http://d.opencalais.com/genericHasher-1/6970d84d-53cb-3b52-9064-063fcda5a5fb" tdg:entityName="Iraq" tdg:relevanceScore="0.434"/>
+          <tdg:Currency tdg:entityID="http://d.opencalais.com/genericHasher-1/736a403d-157b-3e80-86a7-acc404607cb2" tdg:entityName="USD" tdg:relevanceScore="0.13"/>
+          <tdg:Facility tdg:entityID="http://d.opencalais.com/genericHasher-1/3fce7d23-0044-3e93-9722-ee74a29de343" tdg:entityName="Israeli-Palestinian arena" tdg:relevanceScore="0.208"/>
+          <tdg:Organization tdg:entityID="http://d.opencalais.com/genericHasher-1/b1b2808b-db00-3ff2-b38f-0f3ee5345b34" tdg:entityName="UN Security Council" tdg:relevanceScore="0.14" tdg:organizationType="governmental civilian" tdg:nationality="N/A"/>
+          <tdg:Organization tdg:entityID="http://d.opencalais.com/genericHasher-1/fa36ccaa-3402-3be8-993a-00a6a8fbfb2e" tdg:entityName="United Nations" tdg:relevanceScore="0.3" tdg:organizationType="governmental civilian" tdg:nationality="N/A"/>
+          <tdg:Organization tdg:entityID="http://d.opencalais.com/genericHasher-1/d841a4f6-0097-35ff-840f-1d3164a24d10" tdg:entityName="Bush administration" tdg:relevanceScore="0.739" tdg:organizationType="governmental civilian" tdg:nationality="N/A"/>
+          <tdg:Organization tdg:entityID="http://d.opencalais.com/genericHasher-1/5deda061-e1a6-36a9-bf80-3e2e6f903bf5" tdg:entityName="Hizballah" tdg:relevanceScore="0.094" tdg:organizationType="N/A" tdg:nationality="N/A"/>
+          <tdg:Organization tdg:entityID="http://d.opencalais.com/genericHasher-1/b6266543-b3c0-362e-a7f1-4dddf0ba792f" tdg:entityName="European Union" tdg:relevanceScore="0.3" tdg:organizationType="governmental civilian" tdg:nationality="N/A"/>
+          <tdg:Person tdg:entityID="http://d.opencalais.com/pershash-1/f6ef4719-de8f-373b-becf-d6dc08efe40a" tdg:entityName="Bill Clinton" tdg:relevanceScore="0.308" tdg:personType="N/A" tdg:commonName="Bill Clinton" tdg:nationality="N/A"/>
+          <tdg:Person tdg:entityID="http://d.opencalais.com/pershash-1/34ebc8c3-67be-3675-91c9-e7d620e9df2f" tdg:entityName="Ariel Sharon" tdg:relevanceScore="0.578" tdg:personType="political" tdg:commonName="Ariel Sharon" tdg:nationality="N/A"/>
+          <tdg:Person tdg:entityID="http://d.opencalais.com/pershash-1/eaecd5d5-04e2-3f83-97b0-c4684a737448" tdg:entityName="Bush" tdg:relevanceScore="0.598" tdg:personType="political" tdg:commonName="George Bush" tdg:nationality="N/A"/>
+          <tdg:Person tdg:entityID="http://d.opencalais.com/pershash-1/859806d3-76ec-3181-b293-620794762f04" tdg:entityName="Anthony Zinni" tdg:relevanceScore="0.304" tdg:personType="political" tdg:commonName="Anthony Zinni" tdg:nationality="N/A"/>
+          <tdg:Person tdg:entityID="http://d.opencalais.com/pershash-1/98795f56-92b2-3463-bef3-a64de47e61e6" tdg:entityName="Colin Powell" tdg:relevanceScore="0.459" tdg:personType="political" tdg:commonName="Colin Powell" tdg:nationality="N/A"/>
+          <tdg:Person tdg:entityID="http://d.opencalais.com/pershash-1/7db78f31-e1af-3511-81d9-502ce30ec776" tdg:entityName="Yasser Arafat" tdg:relevanceScore="0.491" tdg:personType="N/A" tdg:commonName="Yasser Arafat" tdg:nationality="N/A"/>
+          <tdg:Person tdg:entityID="http://d.opencalais.com/pershash-1/72ca43bf-333a-33e7-b8e6-060fc718379f" tdg:entityName="Paul
+Wolfowitz" tdg:relevanceScore="0.12" tdg:personType="political" tdg:commonName="Paul Wolfowitz" tdg:nationality="N/A"/>
+          <tdg:PoliticalEvent tdg:entityID="http://d.opencalais.com/genericHasher-1/dae5689a-92f5-31d6-9237-8f097a19aad3" tdg:entityName="presidential
+elections" tdg:relevanceScore="0.196" tdg:politicalEventType="Voting" tdg:date="2004-00-00" tdg:dateString="in late 2004" tdg:location="United States"/>
+          <tdg:Position tdg:entityID="http://d.opencalais.com/genericHasher-1/fba41c45-329a-3a95-a2e5-4709d0a51efc" tdg:entityName="special envoy" tdg:relevanceScore="0.304"/>
+          <tdg:Position tdg:entityID="http://d.opencalais.com/genericHasher-1/7b96026c-4376-36f1-aac2-474d6cb1ceed" tdg:entityName="Prime Minister" tdg:relevanceScore="0.503"/>
+          <tdg:Position tdg:entityID="http://d.opencalais.com/genericHasher-1/0d87e8a5-fb41-33c9-a1fb-bedf134b384e" tdg:entityName="president" tdg:relevanceScore="0.596"/>
+          <tdg:Position tdg:entityID="http://d.opencalais.com/genericHasher-1/f1d77aa8-f9b9-3ad1-b6a3-2d516d2d31c6" tdg:entityName="Secretary of
+State" tdg:relevanceScore="0.459"/>
+          <tdg:Position tdg:entityID="http://d.opencalais.com/genericHasher-1/90dc4760-a58a-3e39-b8ae-9d44d767c0f4" tdg:entityName="Deputy Secretary of Defense" tdg:relevanceScore="0.12"/>
+          <tdg:Region tdg:entityID="http://d.opencalais.com/genericHasher-1/55ccb46b-68ce-3750-a326-6bdd742672fc" tdg:entityName="Middle East" tdg:relevanceScore="0.288"/>
+        </tdg:NamedEntities>
+      </tdg:Content>
+      <tdg:Linguistic>
+        <tdg:Corpus_Type>Monolingual</tdg:Corpus_Type>
+        <tdg:Alignment>Unaligned</tdg:Alignment>
+        <tdg:Source_Languages>
+          <tdg:Language>
+            <tdg:language_iso2>en</tdg:language_iso2>
+            <tdg:language_iso3>eng</tdg:language_iso3>
+            <tdg:language_name>English</tdg:language_name>
+            <tdg:language_probability>0.9999960832221201</tdg:language_probability>
+          </tdg:Language>
+        </tdg:Source_Languages>
+      </tdg:Linguistic>
+      <tdg:Format>
+        <tdg:Data_Type>Electronic Text</tdg:Data_Type>
+        <tdg:Encoding xsi:nil="true"/>
+        <tdg:Extent/>
+        <tdg:Medium>Format medium 1</tdg:Medium>
+      </tdg:Format>
+    </tdg:CorpusContent>
+    <tdg:UploadInformation>
+      <tdg:IPAddress/>
+      <tdg:Port/>
+      <tdg:Protocol/>
+      <tdg:Date/>
+      <tdg:UserInfo>
+        <tdg:UserID/>
+        <tdg:Name/>
+        <tdg:Email/>
+      </tdg:UserInfo>
+    </tdg:UploadInformation>
+  </tdg:CorpusMetadata>
+  <tdg:CorpusBody>
+    <tdg:CorpusSearchText>
+      <tdg:SearchText tdg:Language="eng">
+        <tdg:Text>The Bush administration's approach toward the Israeli-Palestinian
+conflict has gone through a number of permutations. Upon taking office
+in 2001, the new American president indicated that he did not intend to
+get deeply involved in peacemaking between Arabs and Israelis. His
+predecessor, Bill Clinton, had failed at this seemingly hopeless task,
+and in so doing wasted valuable American diplomatic energies and
+prestige. Bush received the Mitchell Report
+                                                , sent Secretary of
+State Powell and special envoy Anthony Zinni several times to the
+region, but avoided any serious American initiative. Under pressure from
+the Arab world and the international community, the administration
+agreed to participate in the efforts of the Quartet (the United States,
+the United Nations, the European Union and Russia) to generate a new
+peace plan, but with little enthusiasm.
+
+This chronology was punctuated at an early stage by the events of
+September 11, 2001. US post-9/11 policies, by emphasizing a preemptive,
+aggressive, zero-tolerance attitude toward terrorism emanating from the
+Middle East, tended quite naturally to favor Israel's position against
+that of the Palestinian leadership. Ultimately this developed into the
+demand that the Palestinians remove Yasser Arafat from effective power
+and elect an alternative leadership as a precondition for American
+involvement. But at the same time, Bush became the first American
+president to officially endorse a two-state solution, and his June 24,
+2002                                              speech, which became a
+bedrock of his policy, appears to endorse the 1967 lines as the basis
+for such an outcome.
+
+All the while, Bush could not ignore the role of two important electoral
+constituencies--part of the organized American Jewish community, and the
+evangelical Christian right--in supporting Prime Minister Ariel Sharon's
+positions vis-a-vis the Palestinians.
+
+The administration's policy seemingly changed on the eve of the invasion
+and occupation of Iraq, when Bush, after months of delay, endorsed the
+Quartet's roadmap. He thereby accepted a policy position that required
+immediate concessions from Israel with regard to settlements and the
+occupation--concessions that the president had hitherto sought to
+postpone to a more advanced stage of the process, after the Palestinians
+had chosen a new leader and ended terrorism.
+
+The roadmap timeline--Bush's enthusiastic pre-war endorsement of the
+document in March 2003, pressure to appoint a new Palestinian prime
+minister (winter-spring 2003), and a high profile post-war ceremonial
+launching (June 2003)--points to the war in Iraq as a major American
+strategic consideration in calibrating the timing and degree of US
+commitment.
+
+Here the guiding American policy principle appears to have been that if
+the US was seen to be sincerely trying to end the violence and restore
+the peace process, this would help it prior to the war in Iraq in
+recruiting allies and blunting opposition in Europe and the Arab world.
+Once the war was over, a successful roadmap process would ensure the
+ongoing goodwill of Iraq's neighbors, just as success in democratizing
+Iraq would redound positively on the Israeli-Palestinian arena, in
+keeping with the much talked about positive domino effect.
+
+In this sense, the subsequent post-war decline in American efforts to
+facilitate the roadmap mainly reflects the administration's growing
+sense of distress in Iraq, along with the constraints of US presidential
+elections in late 2004. With all due respect to Bush's religious fervor
+in presenting his roadmap process to Arab leaders ("I'm on a mission
+from God"), it was old-fashioned considerations of realpolitik that took
+over when the going got rough. The needs of Bush's potential voters took
+primacy: the administration reverted to a conflict-management mode; it
+ceased to enforce its own peace plan.
+
+How then, do we explain the current flurry of US criticism and pressures
+on Israel? President Bush has publicly called for Israel to dismantle
+outposts, cease expanding settlements and reroute the fence. The US
+supported the Russian initiative for the UN Security Council to endorse
+the roadmap. It has deducted nearly $300 million from loan guarantees as
+a penalty for Israeli investments in the settlements and the fence. And
+Secretary of State Colin Powell and Deputy Secretary of Defense Paul
+Wolfowitz have spoken approvingly of informal Palestinian-Israeli peace
+initiatives.
+
+One explanation is Sharon's mistakes and failings. The administration
+was reportedly livid over his transparent attempts to "legalize"
+outposts so that roadmap demands no longer apply to them. It is shocked
+by the deal he's intent on doing, with the help of "old Europe"
+(Germany), with Hizballah, a major terrorist enemy. And it is keenly
+aware of growing criticism of the prime minister by senior serving and
+former Israeli security officials and by the Israeli public.
+
+A second is the administration's apparent determination that, despite
+election year considerations, it cannot afford to allow Israel to ignore
+the "red lines" it has laid down over recent months concerning
+settlements and cooperation with new Palestinian governments. It is
+serving notice that, precisely because it wants relative peace and quiet
+in the Israeli-Palestinian sector for the coming election year, Sharon
+should not take it for granted, and Israel has to accept certain
+restrictions on its initiatives.
+
+At the end of the day, this is in no way a crisis in US-Israel
+relations--something neither side wants. What the administration appears
+to seek for the coming year is a relatively low profile for our
+conflict, meaning no provocations from either side--even if the roadmap
+process is not advanced.
+
+Sharon's response--a PR flurry of ambiguous hints of new initiatives,
+bilateral and unilateral--and the solidification of Yasser Arafat's
+power as supreme Palestinian leader, both appear to indicate that
+neither side has yet developed a realistic strategy for peace. Under
+these circumstances, only an energetic American commitment will make a
+difference. And that is not about to happen.</tdg:Text>
+      </tdg:SearchText>
+    </tdg:CorpusSearchText>
+    <tdg:CorpusAnnotatedText>
+      <tdg:AnnotatedText tdg:Language="eng">
+        <tdg:Text>The &lt;organization id="http://d.opencalais.com/genericHasher-1/d841a4f6-0097-35ff-840f-1d3164a24d10" class="organization">Bush administration&lt;/organization>'s approach toward the Israeli-Palestinian
+conflict has gone through a number of permutations. Upon taking office
+in 2001, the new American president indicated that he did not intend to
+get deeply involved in peacemaking between Arabs and Israelis. His
+predecessor, Bill Clinton, had failed at this seemingly hopeless task,
+and in so doing wasted valuable American diplomatic energies and
+prestige. Bush received the Mitchell Report
+                                                , sent Secretary of
+State Powell and special envoy Anthony Zinni several times to the
+region, but avoided any serious American initiative. Under pressure from
+the Arab world and the international community, the administration
+agreed to participate in the efforts of the Quartet (the United States,
+the United Nations, the European Union and Russia) to generate a new
+peace plan, but with little enthusiasm.
+
+This chronology was punctuated at an early stage by the events of
+September 11, 2001. US post-9/11 policies, by emphasizing a preemptive,
+aggressive, zero-tolerance attitude toward terrorism emanating from the
+Middle East, tended quite naturally to favor Israel's position against
+that of the Palestinian leadership. Ultimately this developed into the
+demand that the Palestinians remove Yasser Arafat from effective power
+and elect an alternative leadership as a precondition for American
+involvement. But at the same time, Bush became the first American
+president to officially endorse a two-state solution, and his June 24,
+2002                                              speech, which became a
+bedrock of his policy, appears to endorse the 1967 lines as the basis
+for such an outcome.
+
+All the while, Bush could not ignore the role of two important electoral
+constituencies--part of the organized American Jewish community, and the
+evangelical Christian right--in supporting Prime Minister Ariel Sharon's
+positions vis-a-vis the Palestinians.
+
+The administration's policy seemingly changed on the eve of the invasion
+and occupation of Iraq, when Bush, after months of delay, endorsed the
+Quartet's roadmap. He thereby accepted a policy position that required
+immediate concessions from Israel with regard to settlements and the
+occupation--concessions that the president had hitherto sought to
+postpone to a more advanced stage of the process, after the Palestinians
+had chosen a new leader and ended terrorism.
+
+The roadmap timeline--Bush's enthusiastic pre-war endorsement of the
+document in March 2003, pressure to appoint a new Palestinian prime
+minister (winter-spring 2003), and a high profile post-war ceremonial
+launching (June 2003)--points to the war in Iraq as a major American
+strategic consideration in calibrating the timing and degree of US
+commitment.
+
+Here the guiding American policy principle appears to have been that if
+the US was seen to be sincerely trying to end the violence and restore
+the peace process, this would help it prior to the war in Iraq in
+recruiting allies and blunting opposition in Europe and the Arab world.
+Once the war was over, a successful roadmap process would ensure the
+ongoing goodwill of Iraq's neighbors, just as success in democratizing
+Iraq would redound positively on the Israeli-Palestinian arena, in
+keeping with the much talked about positive domino effect.
+
+In this sense, the subsequent post-war decline in American efforts to
+facilitate the roadmap mainly reflects the administration's growing
+sense of distress in Iraq, along with the constraints of US presidential
+elections in late 2004. With all due respect to Bush's religious fervor
+in presenting his roadmap process to Arab leaders ("I'm on a mission
+from God"), it was old-fashioned considerations of realpolitik that took
+over when the going got rough. The needs of Bush's potential voters took
+primacy: the administration reverted to a conflict-management mode; it
+ceased to enforce its own peace plan.
+
+How then, do we explain the current flurry of US criticism and pressures
+on Israel? President Bush has publicly called for Israel to dismantle
+outposts, cease expanding settlements and reroute the fence. The US
+supported the Russian initiative for the UN Security Council to endorse
+the roadmap. It has deducted nearly $300 million from loan guarantees as
+a penalty for Israeli investments in the settlements and the fence. And
+Secretary of State Colin Powell and Deputy Secretary of Defense Paul
+Wolfowitz have spoken approvingly of informal Palestinian-Israeli peace
+initiatives.
+
+One explanation is Sharon's mistakes and failings. The administration
+was reportedly livid over his transparent attempts to "legalize"
+outposts so that roadmap demands no longer apply to them. It is shocked
+by the deal he's intent on doing, with the help of "old Europe"
+(Germany), with Hizballah, a major terrorist enemy. And it is keenly
+aware of growing criticism of the prime minister by senior serving and
+former Israeli security officials and by the Israeli public.
+
+A second is the administration's apparent determination that, despite
+election year considerations, it cannot afford to allow Israel to ignore
+the "red lines" it has laid down over recent months concerning
+settlements and cooperation with new Palestinian governments. It is
+serving notice that, precisely because it wants relative peace and quiet
+in the Israeli-Palestinian sector for the coming election year, Sharon
+should not take it for granted, and Israel has to accept certain
+restrictions on its initiatives.
+
+At the end of the day, this is in no way a crisis in US-Israel
+relations--something neither side wants. What the administration appears
+to seek for the coming year is a relatively low profile for our
+conflict, meaning no provocations from either side--even if the roadmap
+process is not advanced.
+
+Sharon's response--a PR flurry of ambiguous hints of new initiatives,
+bilateral and unilateral--and the solidification of Yasser Arafat's
+power as supreme Palestinian leader, both appear to indicate that
+neither side has yet developed a realistic strategy for peace. Under
+these circumstances, only an energetic American commitment will make a
+difference. And that is not about to happen.</tdg:Text>
+      </tdg:AnnotatedText>
+    </tdg:CorpusAnnotatedText>
+  </tdg:CorpusBody>
+</tdg:TDG_SRT_Corpus>

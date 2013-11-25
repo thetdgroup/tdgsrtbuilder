@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rdf:RDF [
+	<!ENTITY rdf 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+	<!ENTITY rdfs 'http://www.w3.org/2000/01/rdf-schema#'>
+	<!ENTITY xsd 'http://www.w3.org/2001/XMLSchema#'>
+	<!ENTITY dc 'http://purl.org/dc/elements/1.1/'>
+	<!ENTITY tdg 'http://localhost/tdgweb/rdf/0.1/rdf-tmx-schema.rdf'>
+]>
+<rdf:RDF xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:tdg="http://localhost/tdgweb/rdf/0.1/rdf-tmx-schema.rdf" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="&tdg;Segmentation" tdg:index="00000">
+    <tdg:audiolength />
+    <tdg:audiourl />
+    <tdg:endtime rdf:datatype="&xsd;duration">00:00:05.8700000</tdg:endtime>
+    <tdg:sourcelang>EN</tdg:sourcelang>
+    <tdg:sourceorg>ve(3.87,4.15)got(4.15,4.58)some(4.58,4.61)legislators(5.31,5.75)here(5.75,5.87)</tdg:sourceorg>
+    <tdg:sourceseg>ve got some legislators here </tdg:sourceseg>
+    <tdg:starttime rdf:datatype="&xsd;duration">00:00:03.8700000</tdg:starttime>
+    <tdg:targetlang>EN</tdg:targetlang>
+    <tdg:targetorg />
+    <tdg:targetseg />
+    <tdg:warningflag />
+  </rdf:Description>
+  <rdf:Description rdf:about="&tdg;Segmentation" tdg:index="00001">
+    <tdg:audiolength />
+    <tdg:audiourl />
+    <tdg:endtime rdf:datatype="&xsd;duration">00:00:30.0800000</tdg:endtime>
+    <tdg:sourcelang>EN</tdg:sourcelang>
+    <tdg:sourceorg>and(7.39,7.5)then(7.85,8.24)fighting(8.68,8.84)on(8.84,9.35)behalf(9.35,9.72)of(9.72,9.79)this(10.3,10.52)bill(10.52,10.7)this(10.7,11.18)community(11.18,11.55)for(11.55,11.84)very(11.84,12.16)long(12.16,12.48)time(12.48,12.6)the(13.48,13.67)bill(13.67,13.83)on(13.83,14.22)site(14.22,14.48)today(14.9,15.12)into(15.12,15.45)well(16.27,16.55)better(16.55,16.66)in(16.66,17.11)full(17.85,18.82)participation(18.82,18.85)in(19.0,19.14)our(19.14,19.82)and(20.47,20.64)our(20.64,21.11)commie(21.11,21.25)for(21.25,21.73)americans(21.73,21.87)with(21.87,22.01)this(22.01,22.08)the(22.08,22.56)the(23.47,23.76)twenty(23.76,23.99)first(23.99,24.34)century(24.34,25.21)communications(25.21,25.24)and(25.43,25.84)excessive(26.73,27.01)billy(27.01,27.23)will(27.99,28.2)make(28.2,28.28)it(28.28,28.32)easier(28.89,29.04)for(29.2,29.56)people(29.56,29.63)who(29.63,29.91)worked(29.91,30.06)out(30.06,30.08)</tdg:sourceorg>
+    <tdg:sourceseg>and then fighting on behalf of this bill this community for very long time the bill on site today into well better in full participation in our and our commie for americans with this the the twenty first century communications and excessive billy will make it easier for people who worked out </tdg:sourceseg>
+    <tdg:starttime rdf:datatype="&xsd;duration">00:00:07.3900000</tdg:starttime>
+    <tdg:targetlang>EN</tdg:targetlang>
+    <tdg:targetorg />
+    <tdg:targetseg />
+    <tdg:warningflag />
+  </rdf:Description>
+  <rdf:Description rdf:about="&tdg;Segmentation" tdg:index="00002">
+    <tdg:audiolength />
+    <tdg:audiourl />
+    <tdg:endtime rdf:datatype="&xsd;duration">00:00:33.1800000</tdg:endtime>
+    <tdg:sourcelang>EN</tdg:sourcelang>
+    <tdg:sourceorg>blinder(31.44,31.81)or(32.2,32.46)live(32.46,32.62)with(32.62,32.7)a(32.7,33.15)visual(33.15,33.18)</tdg:sourceorg>
+    <tdg:sourceseg>blinder or live with a visual </tdg:sourceseg>
+    <tdg:starttime rdf:datatype="&xsd;duration">00:00:31.4400000</tdg:starttime>
+    <tdg:targetlang>EN</tdg:targetlang>
+    <tdg:targetorg />
+    <tdg:targetseg />
+    <tdg:warningflag />
+  </rdf:Description>
+  <rdf:Description rdf:about="&tdg;Segmentation" tdg:index="00003">
+    <tdg:audiolength />
+    <tdg:audiourl />
+    <tdg:endtime rdf:datatype="&xsd;duration">00:00:39.4600000</tdg:endtime>
+    <tdg:sourcelang>EN</tdg:sourcelang>
+    <tdg:sourceorg>to(34.29,34.67)do(34.67,34.71)what(34.99,35.22)many(35.22,35.37)of(35.37,35.68)us(35.68,35.71)take(35.94,36.07)for(36.07,36.34)from(37.04,37.69)navigating(37.69,37.8)a(38.22,38.47)or(39.26,39.46)</tdg:sourceorg>
+    <tdg:sourceseg>to do what many of us take for from navigating a or </tdg:sourceseg>
+    <tdg:starttime rdf:datatype="&xsd;duration">00:00:34.2900000</tdg:starttime>
+    <tdg:targetlang>EN</tdg:targetlang>
+    <tdg:targetorg />
+    <tdg:targetseg />
+    <tdg:warningflag />
+  </rdf:Description>
+  <rdf:Description rdf:about="&tdg;Segmentation" tdg:index="00004">
+    <tdg:audiolength />
+    <tdg:audiourl />
+    <tdg:endtime rdf:datatype="&xsd;duration">00:00:58.5100000</tdg:endtime>
+    <tdg:sourcelang>EN</tdg:sourcelang>
+    <tdg:sourceorg>to(40.77,41.13)sending(41.13,41.21)an(41.21,41.65)email(41.65,41.73)on(42.31,42.36)a(42.36,42.71)smart(42.71,42.9)for(42.9,42.93)it(43.85,44.12)sets(44.12,44.29)new(44.29,44.96)standards(44.96,45.17)so(45.41,45.74)that(45.74,45.77)americans(46.24,46.37)would(46.37,46.53)this(46.53,46.76)bill(46.76,46.88)is(46.88,47.11)can(47.11,47.33)take(47.54,48.09)advantage(48.09,48.13)of(48.29,48.38)the(48.38,49.11)our(49.7,50.21)economy(50.21,50.61)depends(50.61,50.76)on(50.76,50.96)them(51.11,51.47)s(51.47,51.71)especially(52.42,52.95)important(52.95,53.26)today(53.26,53.75)succumb(53.75,53.9)when(54.2,54.24)every(54.91,55.26)worker(55.26,55.36)or(55.36,55.71)needs(55.71,55.81)the(55.81,56.29)mssrs(56.29,56.66)skills(56.66,56.77)to(56.77,57.2)for(57.69,57.81)the(57.81,58.15)jobs(58.15,58.22)of(58.22,58.3)the(58.3,58.51)</tdg:sourceorg>
+    <tdg:sourceseg>to sending an email on a smart for it sets new standards so that americans would this bill is can take advantage of the our economy depends on them s especially important today succumb when every worker or needs the mssrs skills to for the jobs of the </tdg:sourceseg>
+    <tdg:starttime rdf:datatype="&xsd;duration">00:00:40.7700000</tdg:starttime>
+    <tdg:targetlang>EN</tdg:targetlang>
+    <tdg:targetorg />
+    <tdg:targetseg />
+    <tdg:warningflag />
+  </rdf:Description>
+  <rdf:Description rdf:about="&tdg;Segmentation" tdg:index="00005">
+    <tdg:audiolength />
+    <tdg:audiourl />
+    <tdg:endtime rdf:datatype="&xsd;duration">00:01:02.4100000</tdg:endtime>
+    <tdg:sourcelang>EN</tdg:sourcelang>
+    <tdg:sourceorg>so(59.81,60.31)together(60.31,60.5)these(60.71,61.15)changes(61.15,61.24)are(61.24,61.52)about(61.52,61.55)guaranteeing(62.05,62.09)equal(62.37,62.41)</tdg:sourceorg>
+    <tdg:sourceseg>so together these changes are about guaranteeing equal </tdg:sourceseg>
+    <tdg:starttime rdf:datatype="&xsd;duration">00:00:59.8100000</tdg:starttime>
+    <tdg:targetlang>EN</tdg:targetlang>
+    <tdg:targetorg />
+    <tdg:targetseg />
+    <tdg:warningflag />
+  </rdf:Description>
+  <rdf:Description rdf:about="&tdg;Segmentation" tdg:index="00006">
+    <tdg:audiolength />
+    <tdg:audiourl />
+    <tdg:endtime rdf:datatype="&xsd;duration">00:01:07.3500000</tdg:endtime>
+    <tdg:sourcelang>EN</tdg:sourcelang>
+    <tdg:sourceorg>the(63.6,63.83)equal(63.83,64.56)opportunity(64.56,64.65)and(65.12,65.51)equal(65.51,66.04)for(66.78,67.03)every(67.03,67.3)man(67.3,67.35)</tdg:sourceorg>
+    <tdg:sourceseg>the equal opportunity and equal for every man </tdg:sourceseg>
+    <tdg:starttime rdf:datatype="&xsd;duration">00:01:03.6000000</tdg:starttime>
+    <tdg:targetlang>EN</tdg:targetlang>
+    <tdg:targetorg />
+    <tdg:targetseg />
+    <tdg:warningflag />
+  </rdf:Description>
+  <rdf:Description rdf:about="&tdg;Segmentation" tdg:index="00007">
+    <tdg:audiolength />
+    <tdg:audiourl />
+    <tdg:endtime rdf:datatype="&xsd;duration">00:01:16.3500000</tdg:endtime>
+    <tdg:sourcelang>EN</tdg:sourcelang>
+    <tdg:sourceorg>(67.35,76.35)</tdg:sourceorg>
+    <tdg:sourceseg> </tdg:sourceseg>
+    <tdg:starttime rdf:datatype="&xsd;duration">00:01:07.3500000</tdg:starttime>
+    <tdg:targetlang>EN</tdg:targetlang>
+    <tdg:targetorg />
+    <tdg:targetseg />
+    <tdg:warningflag />
+  </rdf:Description>
+</rdf:RDF>
